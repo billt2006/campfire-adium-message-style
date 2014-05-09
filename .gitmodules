@@ -1,0 +1,3 @@
+[submodule "Campfire.AdiumMessageStyle/Contents/Resources/inline-images"]
+	path = Campfire.AdiumMessageStyle/Contents/Resources/inline-images
+	url = https://github.com/piranha/adium-inline-images.git
